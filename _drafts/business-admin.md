@@ -20,8 +20,6 @@ thumbnail_image: '//res.cloudinary.com/investessex/image/upload/c_scale,g_center
 
 eweewewewewe
 
-&nbsp;
-
-&nbsp;
+{% include right-image.html src="//res.cloudinary.com/investessex/image/upload/w_700/v1499348096/We_are_hiring_900.jpg" width="400" caption="We Are Hiring"%}
 
 dfdfdfd
