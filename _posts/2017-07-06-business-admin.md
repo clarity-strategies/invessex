@@ -22,6 +22,8 @@ thumbnail_image: '//res.cloudinary.com/investessex/image/upload/c_scale,g_center
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
+![](//res.cloudinary.com/investessex/image/upload/c_scale,g_center,h_165,w_165/v1499348096/We_are_hiring_900.jpg)
+
 {% include right-image.html src="//res.cloudinary.com/investessex/image/upload/w_700/v1499348096/We_are_hiring_900.jpg" width="400" caption="We Are Hiring"%}
 
 > We were so happy we found Essex.
