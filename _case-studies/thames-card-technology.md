@@ -7,7 +7,7 @@ layout: case-study
 pub_date: '2017-04-25 00:00:00'
 tags:
 related:
-- thames-card-technology-wins-contract-to-produce-over-one-million-chip-payme
+- thames-card-technology-wins-contract-to-produce-over-one-million-chip-payment-cards
 - payment-technology-company-reports-increased-manufacturing-sales-of-18m
 sectors:
 - london-essex-uk-finance-corridor
