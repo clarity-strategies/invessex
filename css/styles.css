@@ -2392,7 +2392,7 @@ figcaption{text-align:center;font-size:14px;padding:8px;}
 .right-image {
     float: right;
     margin: 0 0 30px 30px;
-    width: 400px;
+    /*width: 400px;*/
 }
    
 .container-studies-filters .col-form-filter	#newsFilters select {
